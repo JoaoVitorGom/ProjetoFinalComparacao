@@ -48,7 +48,7 @@ try {
         <br>
         <input type="submit" class="botao-cadastrar" value="Excluir Conta Admin" onclick="window.location.href='excluir-usuario-process.php'">
          <br>
-        <input type="button" class="botao-cadastrar" value="Pagina Inicial" onclick="window.location.href='index.php'">
+        <input type="button" class="botao-cadastrar" value="Logout" onclick="window.location.href='logout.php'">
         <br>
         <br>
     </form>

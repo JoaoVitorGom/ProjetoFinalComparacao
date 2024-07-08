@@ -41,7 +41,7 @@ $username = $_GET['username'];
         <br>
         <input type="button" class="botao-cadastrar" value="Excluir Conta  Admin" onclick="window.location.href='excluir-usuario-form.php'">
         <br>
-        <input type="button" class="botao-cadastrar" value="Página Inicial" onclick="window.location.href='logout.php'">
+        <input type="button" class="botao-cadastrar" value="Logout" onclick="window.location.href='logout.php'">
         <br>
         <input type="button" class="botao-cadastrar" value="Cadastrar  Admin" onclick="window.location.href='cadastro_usuario.php'">
         <br>
